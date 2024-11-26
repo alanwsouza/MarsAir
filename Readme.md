@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-## Como executar a aplicação Cypress
+## Como executar os testes do Cypress
 1. Instalar o Node - https://nodejs.org/en/download 
 2. Start NPM - usando o terminal navegue até o diretório do projeto e execute o seguinte comando: npm init --yes
 3. Instalar Cypress - usando o terminal navegue até o diretório do projeto e execute o seguinte comando: npm install -D cypress
